@@ -7,7 +7,7 @@ dependencies:
   mongoose: 5.9.5_mongoose@5.9.5
   passport: 0.4.1
   passport-jwt: 4.0.0
-  validator: 12.2.0
+  validator: 13.0.0
 devDependencies:
   nodemon: 2.0.2
 lockfileVersion: 5.1
@@ -1622,12 +1622,12 @@ packages:
       node: '>= 0.4.0'
     resolution:
       integrity: sha1-n5VxD1CiZ5R7LMwSR0HBAoQn5xM=
-  /validator/12.2.0:
+  /validator/13.0.0:
     dev: false
     engines:
       node: '>= 0.10'
     resolution:
-      integrity: sha512-jJfE/DW6tIK1Ek8nCfNFqt8Wb3nzMoAbocBF6/Icgg1ZFSBpObdnwVY2jQj6qUqzhx5jc71fpvBWyLGO7Xl+nQ==
+      integrity: sha512-anYx5fURbgF04lQV18nEQWZ/3wHGnxiKdG4aL8J+jEDsm98n/sU/bey+tYk6tnGJzm7ioh5FoqrAiQ6m03IgaA==
   /vary/1.1.2:
     dev: false
     engines:
@@ -1716,8 +1716,8 @@ specifiers:
   express: ^4.17.1
   gravatar: ^1.8.0
   jsonwebtoken: ^8.5.1
-  mongoose: ^5.9.4
+  mongoose: ^5.9.5
   nodemon: ^2.0.2
   passport: ^0.4.1
   passport-jwt: ^4.0.0
-  validator: ^12.2.0
+  validator: ^13.0.0
