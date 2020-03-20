@@ -1,5 +1,4 @@
-module.exports = {
+export default {
   mongoURI:
-    "mongodb+srv://evilspark:j4ey7n0b@merndev-ukcut.mongodb.net/test?retryWrites=true&w=majority",
-  mongoLOCAL: "mongodb://127.0.0.1:27017"
+    'mongodb+srv://evilspark:j4ey7n0b@mern-eppdm.mongodb.net/test?retryWrites=true&w=majority',
 };

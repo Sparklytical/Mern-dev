@@ -1,7 +1,6 @@
-const express = require("express");
-
+import express from 'express';
 const router = express.Router();
 //@route GET api/posts/test
-router.get("/test", (req, res) => res.json({ msg: "posts works" }));
+router.get('/test', (req, res) => res.json({ msg: 'posts works' }));
 
-module.exports = router;
+export default router;
